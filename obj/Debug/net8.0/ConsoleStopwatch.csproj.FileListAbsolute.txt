@@ -12,3 +12,4 @@ c:\Users\dagte\Documents\vscode\ConsoleStopwatch\obj\Debug\net8.0\refint\Console
 c:\Users\dagte\Documents\vscode\ConsoleStopwatch\obj\Debug\net8.0\ConsoleStopwatch.pdb
 c:\Users\dagte\Documents\vscode\ConsoleStopwatch\obj\Debug\net8.0\ConsoleStopwatch.genruntimeconfig.cache
 c:\Users\dagte\Documents\vscode\ConsoleStopwatch\obj\Debug\net8.0\ref\ConsoleStopwatch.dll
+C:\Users\dagte\Documents\vscode\ConsoleStopwatch\obj\Debug\net8.0\ConsoleStopwatch.sourcelink.json
