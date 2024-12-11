@@ -1,0 +1,14 @@
+c:\Users\dagte\Documents\vscode\ConsoleStopwatch\obj\Debug\net8.0\ConsoleStopwatch.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\dagte\Documents\vscode\ConsoleStopwatch\obj\Debug\net8.0\ConsoleStopwatch.AssemblyInfoInputs.cache
+c:\Users\dagte\Documents\vscode\ConsoleStopwatch\obj\Debug\net8.0\ConsoleStopwatch.AssemblyInfo.cs
+c:\Users\dagte\Documents\vscode\ConsoleStopwatch\obj\Debug\net8.0\ConsoleStopwatch.csproj.CoreCompileInputs.cache
+c:\Users\dagte\Documents\vscode\ConsoleStopwatch\bin\Debug\net8.0\ConsoleStopwatch.exe
+c:\Users\dagte\Documents\vscode\ConsoleStopwatch\bin\Debug\net8.0\ConsoleStopwatch.deps.json
+c:\Users\dagte\Documents\vscode\ConsoleStopwatch\bin\Debug\net8.0\ConsoleStopwatch.runtimeconfig.json
+c:\Users\dagte\Documents\vscode\ConsoleStopwatch\bin\Debug\net8.0\ConsoleStopwatch.dll
+c:\Users\dagte\Documents\vscode\ConsoleStopwatch\bin\Debug\net8.0\ConsoleStopwatch.pdb
+c:\Users\dagte\Documents\vscode\ConsoleStopwatch\obj\Debug\net8.0\ConsoleStopwatch.dll
+c:\Users\dagte\Documents\vscode\ConsoleStopwatch\obj\Debug\net8.0\refint\ConsoleStopwatch.dll
+c:\Users\dagte\Documents\vscode\ConsoleStopwatch\obj\Debug\net8.0\ConsoleStopwatch.pdb
+c:\Users\dagte\Documents\vscode\ConsoleStopwatch\obj\Debug\net8.0\ConsoleStopwatch.genruntimeconfig.cache
+c:\Users\dagte\Documents\vscode\ConsoleStopwatch\obj\Debug\net8.0\ref\ConsoleStopwatch.dll
